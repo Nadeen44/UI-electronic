@@ -1,0 +1,54 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+#everyone{
+    text-align: center;
+    padding-top: 20px;
+}
+nav{
+  background-color: #12395A;
+}
+h2{
+    font-weight: 700;
+}
+
+.payment a{
+    float: right;
+    padding-left: 20px;
+}
+
+.mac-img {
+    margin-left: -200px;
+}
+
+.checked {
+    color: orange;
+  }
+
+  .filled1{
+    font-size: 20px;
+    color: goldenrod;
+  }
+  .filled2{
+    font-size: 20px;
+    color: silver;
+  }
+  .filled3{
+    font-size: 20px;
+    color: rgb(179, 128, 128);
+  }
+  .location{
+    margin-left: 150px;
+  }
+
+  i{
+    color: #12395A;
+    font-size: 20px;
+  }
+  footer{
+    background-color: #12395A;
+  }
+  .btn{
+    background-color: #12395A;
+  
+  }
